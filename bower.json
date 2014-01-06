@@ -3,7 +3,7 @@
   "name": "jquery-readyselector",
   "description": "Extends `$().ready()` to provide a convenient syntax for page-specific script",
   "version": "0.1.0",
-  "main": "./jquery.readyselector",
+  "main": "./jquery.readyselector.js",
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
